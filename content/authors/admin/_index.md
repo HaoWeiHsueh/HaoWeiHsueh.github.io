@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 薛皓玮
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xue Hao Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hao Wei
+last_name: Xue
 
 # Status emoji
 status:
@@ -20,51 +20,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+# role: Chief Scientist
+role: MASTER OF COMPUTER SCIENCE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  # - name: OpenAI
+  #   url: https://openai.com/
+  - name: Northwest A&F University,College of Information Engineering
+    url: https://cie.nwsuaf.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:haowei720@nwafu.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/HaoWeiHsueh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/haowei-xue-03897a318/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-0377-8143
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 3D Computer Vision
+  - Human-computer Interaction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  # - area: PhD Artificial Intelligence
+  #   institution: Stanford University
+  #   date_start: 2024-07
+  #   date_end: 2024-08
+  #   summary: |
+  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
+  - area:  Summer programme 
+    institution: National University of Singapore
+    date_start: 2024-07
+    date_end: 2024-08
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Computer Science
+    institution: Northwest A&F University
+    date_start: 2023-09
+    date_end: 2026-06
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +84,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: Northwest A&F University
+    date_start: 2019-09
+    date_end: 2023-06
     summary: |
       GPA: 3.4/4.0
       
@@ -183,4 +195,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Haowei Xue(Howard Hsueh) is a graduate student of computer science at the College of Information Engineering, Northwest A&F University, focusing on 3D computer vision and human-computer interaction. He has successively proposed lightweight gesture recognition algorithms, monocular hand reconstruction methods, and local and global feature adaptive networks to solve the key problems in gesture recognition, reconstruction and two-handed interaction.
