@@ -66,8 +66,8 @@ education:
   #     url: 'https://example.com'
   - area:  Summer programme 
     institution: National University of Singapore
-    date_start: 2024-07
-    date_end: 2024-08
+    date_start: 2024-07-01
+    date_end: 2024-08-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -75,8 +75,8 @@ education:
       url: 'https://example.com'
   - area: MEng Computer Science
     institution: Northwest A&F University
-    date_start: 2023-09
-    date_end: 2026-06
+    date_start: 2023-09-01
+    date_end: 2026-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -86,8 +86,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Computer Science
     institution: Northwest A&F University
-    date_start: 2019-09
-    date_end: 2023-06
+    date_start: 2019-09-01
+    date_end: 2023-06-01
     summary: |
       GPA: 3.4/4.0
       
